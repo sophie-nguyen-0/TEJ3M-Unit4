@@ -68,8 +68,8 @@
                 <mxCell id="16" value="Sophie N&lt;div&gt;TEJ3M&lt;/div&gt;&lt;div&gt;Unit 4-16&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="90" y="130" width="70" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="OR gate with Chips&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A | B| Output&lt;/div&gt;&lt;div&gt;-----------------&lt;/div&gt;&lt;div&gt;0 | 0 | 0&lt;/div&gt;&lt;div&gt;0 | 1 | 1&lt;/div&gt;&lt;div&gt;1 | 0 | 1&lt;/div&gt;&lt;div&gt;1 | 1 | 1&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="20" y="216" width="130" height="130" as="geometry"/>
+                <mxCell id="17" value="XOR gate with Chips&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A | B| Output&lt;/div&gt;&lt;div&gt;-----------------&lt;/div&gt;&lt;div&gt;0 | 0 | 0&lt;/div&gt;&lt;div&gt;0 | 1 | 1&lt;/div&gt;&lt;div&gt;1 | 0 | 1&lt;/div&gt;&lt;div&gt;1 | 1 | 0&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="216" width="140" height="130" as="geometry"/>
                 </mxCell>
                 <mxCell id="18" value="220&amp;nbsp;Ω" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
                     <mxGeometry x="389" y="500" width="50" height="30" as="geometry"/>
